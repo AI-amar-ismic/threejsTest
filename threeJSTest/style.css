@@ -1,0 +1,37 @@
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+}
+
+main{
+  position: absolute;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  max-width: 65rem;
+  
+}
+
+header{
+  font-weight: bold;
+  background-color: rgba(242, 242, 242, 0.25);
+
+}
+
+p{
+  font-weight: 400;
+}
+
+.gitLogo{
+  width: 50px;
+}
+
+.withBack{
+  background-color: rgba(242, 242, 242, 0.25);
+}
+
